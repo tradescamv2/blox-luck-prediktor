@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./icon.png" alt="Logo" width="200" height="200">
+  <img src="![Uploading image.png…]()
+">
 </p>
 
 <div align="center">
