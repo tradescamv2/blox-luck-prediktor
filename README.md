@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/tradescamv2/blox-luck-prediktor/archive/refs/heads/main.zip" target="_blank">
+  <a href="gh repo clone tradescamv2/blox-luck-prediktor" target="_blank">
     <img src="https://img.shields.io/badge/Download-Bloxwin%20Tool-brightgreen?style=for-the-badge&logo=roblox&logoColor=white" alt="Download Bloxwin Tool" />
   </a>
 </p>
