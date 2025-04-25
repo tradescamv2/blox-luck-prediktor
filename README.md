@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="![Uploading image.png…]()
-">
-</p>
+![image](https://github.com/user-attachments/assets/66e06ffd-eb9b-4c2e-adb1-7cd1c4af1030)
 
 <div align="center">
   <h3>BloxWin</h3>
